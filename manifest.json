@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "purchase-history-ui",
+  "short_name": "purchase-history-ui",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
