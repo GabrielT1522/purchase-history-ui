@@ -34,9 +34,10 @@ This project is a mobile-friendly React Native application (built using Expo) th
 - Includes 35 realistic purchases across 6+ months 
 - Saved as a JSON file "mock_purchases.json" for easy data processing
 
-## Demo
+## Live Demo
 
-A 2–3 minute screen recording demonstrates the full user experience and features.
+You can try the web version of the app here:  
+➡️ **[https://gabrielt1522.github.io/purchase-history-ui](https://gabrielt1522.github.io/purchase-history-ui)**
 
 ## Project Structure
 
@@ -54,22 +55,6 @@ purchase-history-ui/
 ├── App.js
 └── README.md
 ```
-
-## How to Run
-
-1. Install Expo CLI: `npm install -g expo-cli`
-2. Clone the repo: `git clone https://github.com/GabrielT1522/purchase-history-ui.git`
-3. Navigate to the folder: `cd purchase-history-ui`
-4. Install dependencies: `npm install`
-5. Start the project: `npm start` (and follow Expo instructions to view on web or emulator)
-
-## Submission Package
-
-- Final source code
-- README file
-- Walkthrough screen recording
-- Project rationale PDF
-- Packaged in: MIS5350_FinalProject_Torres_Gabriel.zip
 
 ## Author
 
